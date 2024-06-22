@@ -113,4 +113,4 @@ You can interact with the contract by calling the functions once the contract is
     
 ## Authors
 Saket Agarwal
-[@rajeevsingh](https://www.linkedin.com/in/saket-agarwal007)
+[@SaketAgarwal](https://www.linkedin.com/in/saket-agarwal007)
